@@ -10,5 +10,5 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: romjanhossain726526@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I do a lot of gaming......
+- ⚡ Fun fact: I'm Single..........
   
