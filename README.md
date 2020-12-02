@@ -15,10 +15,18 @@
 
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
+
+<a href="https://github.com/RomjanHossain/RomjanHossain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&theme=gotham&show_icons=true&line_height=27" />
+</a>
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomjanHossain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Romjan's GitHub Stats" />
+ <a href="https://github.com/RomjanHossain/RomjanHossain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomjanHossain&theme=gotham" alt="Romjan's GitHub Stats" />
+</a>
 
+
+<a href="https://github.com/RomjanHossain/RomjanHossain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomjanHossain" />
+</a>
