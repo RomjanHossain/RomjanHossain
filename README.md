@@ -22,11 +22,11 @@
 </a>
 
 
- <a href="https://github.com/RomjanHossain/RomjanHossain">
+<a href="https://github.com/RomjanHossain/RomjanHossain">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomjanHossain&theme=gotham" alt="Romjan's GitHub Stats" />
 </a>
 
 
-<a href="https://github.com/RomjanHossain/RomjanHossain">
+<!-- <a href="https://github.com/RomjanHossain/RomjanHossain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomjanHossain" />
-</a>
+</a> -->
