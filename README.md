@@ -27,6 +27,6 @@
 </a>
 
 
-<!-- <a href="https://github.com/RomjanHossain/RomjanHossain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RomjanHossain" />
-</a> -->
+<a href="https://github.com/RomjanHossain/RomjanHossain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=romjan1412&layout=compact&theme=gotham" />
+</a>
