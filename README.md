@@ -18,7 +18,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/RomjanHossain/RomjanHossain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&langs_count=20&layout=compact&theme=gotham&show_icons=true&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&theme=gotham&show_icons=true&line_height=27" />
 </a>
 
 
