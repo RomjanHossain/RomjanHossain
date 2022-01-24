@@ -9,7 +9,7 @@
    <h1 align="center">Hi there 👋</h1>
    <h2>I am Romjan D. Hossain✨</h2>
   
-   <p>🎓 I am Currently a 5th semester Student at <a href="http://dpi.gov.bd/" target="_blank">Computer Technology</a>  in <a href="http://dpi.gov.bd/" target="_blank">Dhaka Polytechnic Institute</a>
+   <p>🎓 I am Currently a 6th semester Student at <a href="http://dpi.gov.bd/" target="_blank">Computer Technology</a>  in <a href="http://dpi.gov.bd/" target="_blank">Dhaka Polytechnic Institute</a>
    </p>
    <hr>
 </section>
