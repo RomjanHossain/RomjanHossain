@@ -6,10 +6,10 @@
   <body>
 <!-- Start My Basic Information -->
 <section>
-   <h1 align="center">Hi there 👋</h1>
+   <h1 align="center">Hi there <img src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Hi.gif" width="29px"></h1>
    <h2>I am Romjan D. Hossain✨</h2>
   
-   <p>🎓 I am Currently a 6th semester Student at <a href="http://dpi.gov.bd/" target="_blank">Computer Technology</a>  in <a href="http://dpi.gov.bd/" target="_blank">Dhaka Polytechnic Institute</a>
+   <p>🎓 I am Currently a 7th semester Student at <a href="http://dpi.gov.bd/" target="_blank">Computer Technology</a>  in <a href="http://dpi.gov.bd/" target="_blank">Dhaka Polytechnic Institute</a>
    </p>
    <hr>
 </section>
@@ -22,7 +22,7 @@
  <h2 align="center">Contact Me </h2>
  <h2>My Website</h2>
  <a href="https://romjan1412.netlify.app/" target="_blank">
-   <img align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/world-wide-web.svg" />
+   <img align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/world-wide-web.svg" />
   </a>
 <br>
  </section>
@@ -35,19 +35,19 @@
 ## Social Media
 <section>
 <a href="https://linkedin.com/in/romjan-d-hossain-482a8a187" target="_blank">
-   <img align="left" alt="Romjan D. Hossain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Romjan D. Hossain | Linkedin" width="24px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Linkedin.svg" />
   </a>
   <a href="https://www.facebook.com/romjan1412" target="_blank">
-   <img align="left" alt="Romjan D. Hossain | Facebook" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/facebook.svg" />
+   <img align="left" alt="Romjan D. Hossain | Facebook" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/facebook.svg" />
 </a>
   <a href="https://twitter.com/romjan1412" target="_blank">
-    <img align="left" alt="Romjan D. Hossain | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Romjan D. Hossain | Twitter" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/romjan1412/" target="_blank">
-    <img align="left" alt="Romjan D. Hossain | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+    <img align="left" alt="Romjan D. Hossain | Instagram" width="24px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Instagram.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UC-hbETHLvw4veoIgDuIp3SA" target="_blank">
-   <img align="left" alt="D. Developer | Youtube" width="26px" src="https://github.com/shakiliitju/shakiliitju/blob/main/youtube.svg" />
+   <img align="left" alt="D. Developer | Youtube" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/youtube.svg" />
 </a>
 
 <br>
@@ -62,7 +62,7 @@
 <br>
 </div>
 <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/matrix.svg" /><img align="" height='120px' src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Geometric%20White.gif" />
 </p>
 <hr>
 <!-- End Visitor Count -->
@@ -87,16 +87,16 @@
 
   <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img height="150" width="150" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RomjanHossain&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img height="150" width="150" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/right.png">
   </a>
 </p>
 
   
 | My github statistics                                         | Most used languages                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=RomjanHossain&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire) |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=RomjanHossain&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) |
 
 
 <hr>
