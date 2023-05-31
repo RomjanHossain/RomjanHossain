@@ -9,7 +9,8 @@
    <h1 align="center">Hi there <img src="https://github.com/RomjanHossain/RomjanHossain/blob/master/Hi.gif" width="29px"></h1>
    <h2>I am Romjan D. Hossain✨</h2>
   
-   <p>🎓 I am Currently final semester Student at <a href="http://dpi.gov.bd/" target="_blank">Computer Technology</a>  in <a href="http://dpi.gov.bd/" target="_blank">Dhaka Polytechnic Institute</a>
+   <p>
+    🎓 I've completed my Diploma in Computer Science. Congrats to myself!
    </p>
    <hr>
 </section>
