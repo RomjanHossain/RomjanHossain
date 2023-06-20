@@ -10,7 +10,10 @@
    <h2>I am Romjan D. Hossain✨</h2>
   
    <p>
-    🎓 I've completed my Diploma in Computer Science. Congrats to myself!
+    🎓 I am proud to announce that I have successfully completed my Diploma in Computer Science. Congratulations to myself on this achievement!
+   </p>
+   <p>
+    Currently, I am passionately pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at 🏫 <a href="https://www.bubt.edu.bd/" target="_blank"> BUBT </a>  (Bangladesh University of Business and Technology). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
    </p>
    <hr>
 </section>
@@ -25,13 +28,12 @@
  <a href="https://romjan1412.netlify.app/" target="_blank">
    <img align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/world-wide-web.svg" />
   </a>
+   <a href="https://romjan1412.blogspot.com/" target="_blank">
+   <img align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://github.com/RomjanHossain/RomjanHossain/blob/master/world-wide-web.svg" />
+  </a>
 <br>
  </section>
-<!-- End Contact Me -->
 
-
-
-<!-- Start Social Media -->
 
 ## Social Media
 <section>
@@ -177,7 +179,8 @@
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 <p>
-<img alt="Romjan D. Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomjanHossain&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Romjan D. Hossain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RomjanHossain&theme=github-compact" />
+
 </p>
 </body>
 </html>
