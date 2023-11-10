@@ -7,13 +7,25 @@
 <section>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border:1px solid black; border-radius: 10px;" />
    <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
-   <h2>I am Romjan D. Hossain <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="32" height="32" /></h2>
+   <div>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=28FF1100&center=true&vCenter=true&random=false&width=345&height=33&lines=I+am+Romjan+D.+Hossain" alt="Typing SVG"   />
+   </div>
+
+   <br/>
    <p>
     🎓 I am proud to announce that I have successfully completed my Diploma in Computer Science. Congratulations to myself on this achievement!
    </p>
    <p>
     Currently, I am passionately pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at 🏫 <a href="https://www.bubt.edu.bd/" target="_blank"> BUBT </a>  (Bangladesh University of Business and Technology). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
    </p>
+  <ul>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at <a href="https://www.deshifarmer.co/">Deshifarmer</a> in the Tech Team</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Horse%20Racing.png" alt="Horse Racing" width="15" height="15" /> I’m currently learning Rust and better Flutter Practices</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="15" height="15" /> Ask me about <strong>Flutter, Rust, Python and OSINT</strong></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="15" height="15" /> How to reach me: <a href="https://www.linkedin.com/in/romjan1412/">@romjan1412</a> on Linkedin</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="15" height="15" /> Fun fact: I'm not that good at OSINT</li>
+  </ul>
    <hr>
 </section>
 <!-- End My Basic Information -->
@@ -166,6 +178,8 @@
 <img alt="Romjan D. Hossain's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RomjanHossain&theme=github-compact" />
 
 </p>
+<h3>✍️ Random Dev Quote</h3>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </body>
 </html>
