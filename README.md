@@ -22,7 +22,7 @@
   <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at <a href="https://www.deshifarmer.co/">Deshifarmer</a> in the Tech Team</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Horse%20Racing.png" alt="Horse Racing" width="15" height="15" /> I’m currently learning Rust and better Flutter Practices</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="15" height="15" /> Ask me about <strong>Flutter, Rust, Python and OSINT</strong></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="15" height="15" /> Ask me about <strong>Flutter, Django, Rust, Python and OSINT topics</strong></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="15" height="15" /> How to reach me: <a href="https://www.linkedin.com/in/romjan1412/">@romjan1412</a> on Linkedin</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="15" height="15" /> Fun fact: I'm not that good at OSINT</li>
   </ul>
